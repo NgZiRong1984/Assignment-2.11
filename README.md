@@ -1,4 +1,4 @@
-# Assignment-2.11
+# Assignment-2.12
 
 Given a Lambda function that is triggered upon the creation of files in an S3 bucket, answer the following: 
 
